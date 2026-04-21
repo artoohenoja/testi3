@@ -1,3 +1,6 @@
 ensimmäine
 
 Tehdään vielä testi suoralla merge komennolla
+
+
+Muokattu staging paikkaan githubissa
